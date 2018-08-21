@@ -6,4 +6,4 @@ Between a discussion on how many chemeos cycles I should go by before starting t
 
 This simple model tries to predic the size of my tumor after the end of each chemoeteraphy cycle. Once cyle last for 4weeks, I'm assuming it to be one month. The only assumption I made is that the tumor reduction will follow a sigmoid curve, saturating around a tumor of size 0 (100% of reduction).
 
-Oncr I have new MRI data I'll test the model.
+Once I have new MRI data I'll test the model.
